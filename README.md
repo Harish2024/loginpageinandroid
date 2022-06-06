@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 
 /*
-Developed by: G.DHANASEKAR<br>
-Registeration Number : 212220230009
+Developed by: harish g<br>
+Registeration Number : 212220230021
 */
 
 ## <br><br><br>Activity_Main.xml
